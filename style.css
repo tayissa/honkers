@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#nav{
+	border: solid 3px #855E40;
+	background-color: #855E40;
+	height: 200px;
+}
+
+#tekst{
+	font-size: 30pt;
+	color: white;
+	text-align: center;
+	
+}
+
+#inleiding{
+	border: none;
+}
+
+#inleiding-tekst{
+	font-size: 20pt;
+	text-align: center;
+	margin-top: 40px;
+	color: #3D2516;
+}
+
+#info{
+	border: none;
+}
+
+#info-tekst{
+	font-size: 10pt;
+	text-align: center;
+	margin-top:40px;
+	color: #3D2516;
+}
+
+#koffie-foto{
+	width: 100%;
+}
